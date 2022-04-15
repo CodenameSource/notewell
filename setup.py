@@ -9,7 +9,7 @@ setup(name='notewell',
       install_requires=[
           'scibert @ git+https://github.com/CodenameSource/scibert.git',
           'spacy==2.2.4',
-          'Questgen @ git+https://github.com/ramsrigouthamg/Questgen.ai.git',
+          'Questgen @ git+https://github.com/CodenameSource/Questgen.ai.git',
           'pke @ git+https://github.com/boudinfl/pke.git@f651015f9c931cf245a753f4457bb49f0befa5fd',
           'overrides==3.1.0',
           'pandas==1.1.1',
