@@ -14,5 +14,4 @@ setup(name='notewell',
           'overrides==3.1.0'
 
       ],
-      package_data={'Notewell': ['questgen.py', 'summarization.py', 'load_moderation.py']}
       )
